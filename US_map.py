@@ -13,7 +13,7 @@ title_html = '''
             padding: 10px; border-radius: 5px; opacity: 0.85;">
     <h3 style="margin-top: 0;">XGBoost Performance by Location</h3>
     <p>XGBoost does <span style="color:green; font-weight:bold;">well</span> in locations where forecast uncertainty or spread is stable over time. This occurs in places with less volatile weather patterns.</p>
-    <p>XGBoost does <span style="color:red; font-weight:bold;">red</span> in areas where the forecast errors can be more sporadic (timing errors from convective-driven local rainfall).</p>
+    <p>XGBoost does <span style="color:red; font-weight:bold;">poorly</span> in areas where the forecast errors can be more sporadic (timing errors from convective-driven local rainfall).</p>
     <p><b>Color code:</b></p>
     <ul style="padding-left: 20px; margin-bottom: 5px;">
         <li>Good GXBoost performance is noted with <span style="color:green; font-weight:bold;">green</span> borders</li>
